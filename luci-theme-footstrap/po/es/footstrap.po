@@ -190,8 +190,8 @@ msgid ""
 "Footstrap theme settings saved to the router, the login background and "
 "pattern uploads, and the Footstrap settings page"
 msgstr ""
-"Los ajustes del tema Footstrap guardados en el router, la carga del fondo de "
-"inicio de sesión y del patrón, y la página de ajustes de Footstrap"
+"Los ajustes del tema Footstrap guardados en el enrutador, la carga del fondo "
+"de inicio de sesión y del patrón, y la página de ajustes de Footstrap"
 
 #: ucode/template/themes/footstrap/partials/notices.ut:24
 msgid "Go to firmware upgrade..."
@@ -351,20 +351,20 @@ msgstr "Restablecer al integrado"
 msgctxt "footstrap"
 msgid "Reset to built-in — go back to the look the theme ships with."
 msgstr ""
-"«Restablecer al integrado»: vuelve al aspecto con el que se distribuye el "
+"Restablecer al integrado — vuelve al aspecto con el que se distribuye el "
 "tema."
 
 #: htdocs/luci-static/resources/fs-appearance.js:603
 msgctxt "footstrap"
 msgid "Reset to router"
-msgstr "Restablecer al del router"
+msgstr "Restablecer al del enrutador"
 
 #: htdocs/luci-static/resources/fs-appearance.js:711
 msgctxt "footstrap"
 msgid "Reset to router — drop this browser's changes and follow the router."
 msgstr ""
-"«Restablecer al del router»: descarta los cambios de este navegador y sigue "
-"al router."
+"Restablecer al del enrutador — descarta los cambios de este navegador y "
+"sigue al enrutador."
 
 #: htdocs/luci-static/resources/fs-appearance.js:377
 msgctxt "footstrap"
@@ -374,7 +374,7 @@ msgstr "Redondeo"
 #: htdocs/luci-static/resources/fs-appearance.js:601
 msgctxt "footstrap"
 msgid "Save to router"
-msgstr "Guardar en el router"
+msgstr "Guardar en el enrutador"
 
 #: htdocs/luci-static/resources/fs-appearance.js:709
 msgctxt "footstrap"
@@ -382,8 +382,8 @@ msgid ""
 "Save to router — store this look on the router. Browsers with a look of "
 "their own keep it."
 msgstr ""
-"«Guardar en el router»: guarda este aspecto en el router. Los navegadores "
-"con un aspecto propio lo conservan."
+"Guardar en el enrutador — guarda este aspecto en el enrutador. Los "
+"navegadores con un aspecto propio lo conservan."
 
 #: htdocs/luci-static/resources/fs-appearance.js:719
 msgctxt "footstrap"
@@ -393,12 +393,12 @@ msgstr "Aspecto guardado"
 #: htdocs/luci-static/resources/fs-appearance.js:643
 msgctxt "footstrap"
 msgid "Saved to router"
-msgstr "Guardado en el router"
+msgstr "Guardado en el enrutador"
 
 #: htdocs/luci-static/resources/fs-appearance.js:835
 msgctxt "footstrap"
 msgid "Saving"
-msgstr "Guardado"
+msgstr "Guardando"
 
 #: htdocs/luci-static/resources/fs-appearance.js:483
 msgctxt "footstrap"
@@ -508,7 +508,7 @@ msgstr "Esa imagen es demasiado grande."
 #: htdocs/luci-static/resources/fs-assets.js:380
 msgctxt "footstrap"
 msgid "The router refused to delete the file (ubus status %d)."
-msgstr "El router se negó a eliminar el archivo (estado ubus %d)."
+msgstr "El enrutador se negó a eliminar el archivo (estado ubus %d)."
 
 #: htdocs/luci-static/resources/fs-appearance.js:342
 #: htdocs/luci-static/resources/fs-appearance.js:500
@@ -538,7 +538,7 @@ msgstr ""
 #: htdocs/luci-static/resources/fs-appearance.js:751
 msgctxt "footstrap"
 msgid "This theme is not translated on this router yet."
-msgstr "Este tema aún no está traducido en este router."
+msgstr "Este tema aún no está traducido en este enrutador."
 
 #: htdocs/luci-static/resources/fs-appearance.js:396
 msgctxt "footstrap"
@@ -618,7 +618,7 @@ msgstr "en el lienzo"
 msgctxt "footstrap"
 msgid ""
 "the uploaded file could not be removed either; it is still on the router."
-msgstr "tampoco se pudo eliminar el archivo subido; sigue en el router."
+msgstr "tampoco se pudo eliminar el archivo subido; sigue en el enrutador."
 
 #~ msgctxt "footstrap"
 #~ msgid ""
