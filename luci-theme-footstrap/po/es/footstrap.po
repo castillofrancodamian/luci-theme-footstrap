@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
+"X-Generator: Poedit 3.10\n"
 
 #: htdocs/luci-static/resources/fs-appearance.js:304
 msgctxt "footstrap"
@@ -157,7 +157,7 @@ msgstr "No se pudo procesar la imagen."
 msgctxt "footstrap"
 msgid "Could not save to the router. Reload the page and try again."
 msgstr ""
-"No se pudo guardar en el router. Recargue la página e inténtelo de nuevo."
+"No se pudo guardar en el enrutador. Recargue la página e inténtelo de nuevo."
 
 #: htdocs/luci-static/resources/fs-appearance.js:493
 msgctxt "footstrap"
@@ -224,8 +224,8 @@ msgid ""
 "Footstrap theme settings saved to the router, the login background and "
 "pattern uploads, and the Footstrap settings page"
 msgstr ""
-"Los ajustes del tema Footstrap guardados en el router, la carga del fondo de "
-"inicio de sesión y del patrón, y la página de ajustes de Footstrap"
+"Los ajustes del tema Footstrap guardados en el enrutador, la carga del fondo "
+"de inicio de sesión y del patrón, y la página de ajustes de Footstrap"
 
 #: htdocs/luci-static/resources/fs-appearance.js:454
 msgctxt "footstrap"
@@ -405,14 +405,14 @@ msgstr ""
 #: htdocs/luci-static/resources/fs-appearance.js:511
 msgctxt "footstrap"
 msgid "Reset to router"
-msgstr "Restablecer al del router"
+msgstr "Restablecer al del enrutador"
 
 #: htdocs/luci-static/resources/fs-appearance.js:606
 msgctxt "footstrap"
 msgid "Reset to router — drop this browser's changes and follow the router."
 msgstr ""
-"«Restablecer al del router»: descarta los cambios de este navegador y sigue "
-"al router."
+"«Restablecer al del enrutador»: descarta los cambios de este navegador y "
+"sigue al enrutador."
 
 #: htdocs/luci-static/resources/fs-appearance.js:335
 msgctxt "footstrap"
@@ -422,7 +422,7 @@ msgstr "Redondeo"
 #: htdocs/luci-static/resources/fs-appearance.js:510
 msgctxt "footstrap"
 msgid "Save to router"
-msgstr "Guardar en el router"
+msgstr "Guardar en el enrutador"
 
 #: htdocs/luci-static/resources/fs-appearance.js:605
 msgctxt "footstrap"
@@ -430,13 +430,13 @@ msgid ""
 "Save to router — store this look on the router. Browsers with a look of "
 "their own keep it."
 msgstr ""
-"«Guardar en el router»: guarda este aspecto en el router. Los navegadores "
-"con un aspecto propio lo conservan."
+"«Guardar en el enrutador»: guarda este aspecto en el enrutador. Los "
+"navegadores con un aspecto propio lo conservan."
 
 #: htdocs/luci-static/resources/fs-appearance.js:536
 msgctxt "footstrap"
 msgid "Saved to router"
-msgstr "Guardado en el router"
+msgstr "Guardado en el enrutador"
 
 #: htdocs/luci-static/resources/fs-appearance.js:600
 msgctxt "footstrap"
@@ -550,7 +550,7 @@ msgstr "Esa imagen es demasiado grande."
 #: htdocs/luci-static/resources/fs-assets.js:169
 msgctxt "footstrap"
 msgid "The router refused to delete the file (ubus status %d)."
-msgstr "El router se negó a eliminar el archivo (estado ubus %d)."
+msgstr "El enrutador se negó a eliminar el archivo (estado ubus %d)."
 
 #: htdocs/luci-static/resources/fs-appearance.js:448
 msgctxt "footstrap"
@@ -583,12 +583,12 @@ msgid ""
 msgstr ""
 "Este navegador no guarda preferencias (los datos del sitio están "
 "bloqueados), así que un cambio aquí dura hasta que recargues. Guardar en el "
-"router sigue funcionando y se aplica a todos los navegadores."
+"enrutador sigue funcionando y se aplica a todos los navegadores."
 
 #: htdocs/luci-static/resources/fs-appearance.js:596
 msgctxt "footstrap"
 msgid "This theme is not translated on this router yet."
-msgstr "Este tema aún no está traducido en este router."
+msgstr "Este tema aún no está traducido en este enrutador."
 
 #: htdocs/luci-static/resources/fs-appearance.js:463
 msgctxt "footstrap"
@@ -673,7 +673,7 @@ msgstr "en el lienzo"
 msgctxt "footstrap"
 msgid ""
 "the uploaded file could not be removed either; it is still on the router."
-msgstr "tampoco se pudo eliminar el archivo subido; sigue en el router."
+msgstr "tampoco se pudo eliminar el archivo subido; sigue en el enrutador."
 
 #~ msgctxt "footstrap"
 #~ msgid "Saved look"
